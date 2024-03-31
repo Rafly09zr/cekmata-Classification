@@ -1,0 +1,2 @@
+the dataset size is > 700mb, download here:
+https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification?resource=download
